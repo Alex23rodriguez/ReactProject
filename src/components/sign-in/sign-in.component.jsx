@@ -10,7 +10,6 @@ class SignIn extends React.Component {
   constructor(props) {
     super(props);
 
-    console.log(signInWithGoogle);
     this.state = {
       email: "",
       password: "",
